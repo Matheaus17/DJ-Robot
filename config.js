@@ -2,7 +2,7 @@ module.exports = {
     TOKEN: "",
     ownerID: "278330690658107392", //write your discord user id.
     botInvite: "", //write your discord bot invite.
-    mongodbURL: "mongodb+srv://Matheaus:MCPessoa1805@cluster0.dum3lyp.mongodb.net/?retryWrites=true&w=majority", //write your mongodb url.
+    mongodbURL: "", //write your mongodb url.
     status: 'Tocando as melhores músicas! 🎶',
     commandsDir: './commands', //Please don't touch
     language: "br", //en, tr, nl
